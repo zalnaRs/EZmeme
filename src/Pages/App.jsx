@@ -121,7 +121,7 @@ const App = () => {
             color: "white",
           }}
         >
-          <a href="https://imgflip.com/api" target="_blank">
+          <a href="https://github.com/zalnaRs/EZmeme" target="_blank">
             Github
           </a>
         </Heading>

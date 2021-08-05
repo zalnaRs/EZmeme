@@ -139,6 +139,20 @@ const App = () => {
             Imgflip API
           </a>
         </Heading>
+        <Heading
+          marginRight="1%"
+          as="h6"
+          size="sm"
+          transition="all 0.2s ease-in-out"
+          _hover={{
+            textDecoration: "underline",
+            color: "white",
+          }}
+        >
+          <a href="https://github.com/zalnaRs/EZmeme/blob/main/LICENSE" target="_blank">
+            MIT License
+          </a>
+        </Heading>
       </Box>
       {template && (
         <SimpleGrid columns={[1, null, 2]} spacing="1px">

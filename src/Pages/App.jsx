@@ -127,6 +127,7 @@ const App = () => {
         </Heading>
 
         <Heading
+          marginRight="1%"
           as="h6"
           size="sm"
           transition="all 0.2s ease-in-out"
